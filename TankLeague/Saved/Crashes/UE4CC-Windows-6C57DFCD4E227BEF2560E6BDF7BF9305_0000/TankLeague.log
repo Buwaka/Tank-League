@@ -1,0 +1,731 @@
+﻿Log file open, 11/08/19 12:00:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TankLeague
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318914
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.076s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.08-11.00.25:170][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.08-11.00.25:171][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:171][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:178][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.08-11.00.25:178][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.08-11.00.25:179][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.08-11.00.25:179][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.08-11.00.25:179][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.08-11.00.25:331][  0]LogHAL: Display: Platform has ~ 16 GB [17048064000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.11.08-11.00.25:332][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.08-11.00.25:332][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.08-11.00.25:332][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Scalability.ini]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.08-11.00.25:333][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.08-11.00.25:337][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.08-11.00.25:337][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GIT/Tank-League/TankLeague/Saved/Config/Windows/Engine.ini]
+[2019.11.08-11.00.25:337][  0]LogInit: Computer: TOPLAP
+[2019.11.08-11.00.25:337][  0]LogInit: User: Sammy
+[2019.11.08-11.00.25:337][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.08-11.00.25:337][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.08-11.00.25:337][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.08-11.00.25:337][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.08-11.00.25:337][  0]LogMemory: Process Physical Memory: 106.20 MB used, 106.21 MB peak
+[2019.11.08-11.00.25:338][  0]LogMemory: Process Virtual Memory: 89.84 MB used, 89.84 MB peak
+[2019.11.08-11.00.25:338][  0]LogMemory: Physical Memory: 8069.13 MB used,  8189.18 MB free, 16258.30 MB total
+[2019.11.08-11.00.25:338][  0]LogMemory: Virtual Memory: 4634.91 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.11.08-11.00.25:367][  0]LogInit: Using OS detected language (en-US).
+[2019.11.08-11.00.25:368][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.08-11.00.25:368][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.08-11.00.25:820][  0]LogStreaming: Display: Took  0.452s to InitEngineTextLocalization.
+[2019.11.08-11.00.25:820][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.08-11.00.25:887][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.08-11.00.25:887][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.08-11.00.28:172][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.08-11.00.28:172][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.08-11.00.28:258][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.11.08-11.00.28:258][  0]LogD3D11RHI:       4018/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.08-11.00.28:314][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.08-11.00.28:314][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.08-11.00.28:319][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.08-11.00.28:319][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.08-11.00.28:319][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.08-11.00.28:327][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.08-11.00.28:327][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.11.08-11.00.28:327][  0]LogWindows: EnumDisplayDevices:
+[2019.11.08-11.00.28:327][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.08-11.00.28:328][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.08-11.00.28:328][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.08-11.00.28:328][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2019.11.08-11.00.28:328][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.08-11.00.28:329][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.08-11.00.28:329][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.11.08-11.00.28:329][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.08-11.00.28:329][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.11.08-11.00.28:329][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.11.08-11.00.28:329][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.11.08-11.00.28:329][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.11.08-11.00.28:375][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.08-11.00.28:388][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.08-11.00.28:750][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.11.08-11.00.28:763][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.11.08-11.00.28:776][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.11.08-11.00.28:789][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.11.08-11.00.28:807][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.11.08-11.00.28:821][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.11.08-11.00.28:834][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.11.08-11.00.28:848][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.11.08-11.00.28:856][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.11.08-11.00.28:952][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.11.08-11.00.28:955][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.11.08-11.00.29:027][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.08-11.00.29:027][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.11.08-11.00.29:047][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.08-11.00.29:048][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.11.08-11.00.29:059][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.11.08-11.00.29:072][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.11.08-11.00.29:086][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.11.08-11.00.29:104][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.11.08-11.00.29:149][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.11.08-11.00.29:149][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.11.08-11.00.29:149][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.08-11.00.29:231][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/GIT/Tank-League/TankLeague/Intermediate/Shaders/WorkingDirectory/19556/).
+[2019.11.08-11.00.29:232][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sammy/AppData/Local/Temp/UnrealShaderWorkingDir/A6A967A64147CA50B1AB98A8C3D41E41/'.
+[2019.11.08-11.00.29:234][  0]LogXGEController: Cleaning working directory: C:/Users/Sammy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.08-11.00.29:235][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.08-11.00.29:235][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.08-11.00.29:235][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.08-11.00.30:928][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.08-11.00.31:007][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Sammy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.11.08-11.00.31:007][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sammy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.11.08-11.00.31:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GIT/Tank-League/TankLeague/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.08-11.00.31:007][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.08-11.00.31:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GIT/Tank-League/TankLeague/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.08-11.00.31:007][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.08-11.00.31:022][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.08-11.00.31:023][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.08-11.00.31:023][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.08-11.00.31:035][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sammy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.08-11.00.31:035][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.08-11.00.31:035][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.08-11.00.31:061][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.08-11.00.31:062][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.08-11.00.31:076][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.08-11.00.31:389][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2019.11.08-11.00.31:665][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.08-11.00.31:808][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.11.08-11.00.31:814][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.11.08-11.00.31:814][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.08-11.00.31:814][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.08-11.00.31:815][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.11.08-11.00.31:834][  0]LogNetVersion: TankLeague 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 431767736)
+[2019.11.08-11.00.32:329][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.084925 seconds
+[2019.11.08-11.00.32:335][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.11.08-11.00.32:335][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.11.08-11.00.32:335][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.08-11.00.35:405][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.08-11.00.35:418][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.08-11.00.36:065][  0]SourceControl: Source control is disabled
+[2019.11.08-11.00.36:066][  0]SourceControl: Source control is disabled
+[2019.11.08-11.00.36:068][  0]SourceControl: Source control is disabled
+[2019.11.08-11.00.36:070][  0]SourceControl: Source control is disabled
+[2019.11.08-11.00.36:260][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.08-11.00.36:391][  0]LogOcInput: OculusInput pre-init called
+[2019.11.08-11.00.36:533][  0]LogEngine: Initializing Engine...
+[2019.11.08-11.00.36:533][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.08-11.00.36:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.08-11.00.36:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.08-11.00.36:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.08-11.00.36:534][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.08-11.00.36:736][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.08-11.00.36:764][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.08-11.00.36:796][  0]LogInit: XAudio2 using 'Speakers (Samson Meteor Mic)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-11.00.36:814][  0]LogInit: FAudioDevice initialized.
+[2019.11.08-11.00.36:814][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.08-11.00.36:852][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Sammy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.11.08-11.00.36:855][  0]LogInit: Texture streaming: Enabled
+[2019.11.08-11.00.36:903][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.08-11.00.36:923][  0]LogInit: Transaction tracking system initialized
+[2019.11.08-11.00.36:955][  0]BlueprintLog: New page: Editor Load
+[2019.11.08-11.00.37:065][  0]LocalizationService: Localization service is disabled
+[2019.11.08-11.00.37:313][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2019.11.08-11.00.37:313][  0]LogLinker: Warning: Can't find file '/Game/TopDownCPP/TopDownOverview'
+[2019.11.08-11.00.37:313][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2019.11.08-11.00.37:527][  0]LogFileCache: Scanning file cache for directory 'D:/GIT/Tank-League/TankLeague/Content/' took 0.01s
+[2019.11.08-11.00.37:527][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.08-11.00.37:527][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.08-11.00.37:527][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.11.08-11.00.37:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.11.08-11.00.37:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.11.08-11.00.37:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.11.08-11.00.37:528][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.11.08-11.00.37:720][  0]SourceControl: Source control is disabled
+[2019.11.08-11.00.37:720][  0]Cmd: MAP LOAD FILE="D:/GIT/Tank-League/TankLeague/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.08-11.00.37:720][  0]LogEditorServer: Warning: Can't find file 'D:/GIT/Tank-League/TankLeague/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.11.08-11.00.37:720][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.08-11.00.37:720][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2019.11.08-11.00.37:720][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.000
+[2019.11.08-11.00.37:851][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-11.00.37:857][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-11.00.37:863][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-11.00.37:869][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-11.00.37:881][  0]LogCollectionManager: Loaded 0 collections in 0.002208 seconds
+[2019.11.08-11.00.37:897][  0]LogFileCache: Scanning file cache for directory 'D:/GIT/Tank-League/TankLeague/Saved/Collections/' took 0.01s
+[2019.11.08-11.00.37:898][  0]LogFileCache: Scanning file cache for directory 'D:/GIT/Tank-League/TankLeague/Content/Developers/Sammy/Collections/' took 0.00s
+[2019.11.08-11.00.37:898][  0]LogFileCache: Scanning file cache for directory 'D:/GIT/Tank-League/TankLeague/Content/Collections/' took 0.00s
+[2019.11.08-11.00.37:898][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.08-11.00.37:905][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2651 classes and 620 folders.
+[2019.11.08-11.00.37:914][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.08-11.00.37:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.37:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:067][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.08-11.00.38:308][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.08-11.00.38:315][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.08-11.00.38:374][  0]LogSlate: Took 0.005195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.08-11.00.38:381][  0]LogSlate: Took 0.004597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.08-11.00.38:391][  0]LogSlate: Took 0.004771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.08-11.00.38:487][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.11.08-11.00.38:601][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.08-11.00.38:601][  0]LogLoad: (Engine Initialization) Total time: 17.13 seconds
+[2019.11.08-11.00.38:601][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.08-11.00.38:644][  0]LogAssetRegistry: Asset discovery search completed in 7.2776 seconds
+[2019.11.08-11.00.38:646][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.08-11.00.38:647][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000206 seconds (updated 0 objects)
+[2019.11.08-11.00.38:648][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.08-11.00.38:688][  0]LogSlate: Took 0.004427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.08-11.00.39:961][  4]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.08-11.00.52:924][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.00.54:341][302]LogBlueprint: Error: [Compiler TankBak] This blueprint (self) is not a WheeledVehicleMovementComponent, therefore ' Target ' must have a connection.
+[2019.11.08-11.00.54:342][302]LogBlueprint: Warning: [Compiler TankBak] [0032.87] Compile of TankBak failed. 1 Fatal Issue(s) 0 Warning(s) [in 2 ms] (/Game/Blueprints/TankBak.TankBak)
+[2019.11.08-11.00.54:358][302]LogLinker: Warning: Can't find file '/Game/Blueprints/NewPlayerController'
+[2019.11.08-11.00.54:358][302]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/NewPlayerController' while loading D:/GIT/Tank-League/TankLeague/Content/TopDownBP/Blueprints/TopDownGameMode.uasset.
+[2019.11.08-11.00.54:358][302]LoadErrors: Error: /Game/TopDownBP/Blueprints/TopDownGameMode : Can't find file for asset. /Game/Blueprints/NewPlayerController
+[2019.11.08-11.00.54:359][302]LogLinker: Warning: Can't find file '/Game/Blueprints/NewPlayerController'
+[2019.11.08-11.00.54:359][302]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/NewPlayerController' while loading D:/GIT/Tank-League/TankLeague/Content/TopDownBP/Blueprints/TopDownGameMode.uasset.
+[2019.11.08-11.00.54:359][302]LogLinker: Warning: Can't find file '/Game/Blueprints/NewPlayerController'
+[2019.11.08-11.00.54:360][302]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/NewPlayerController' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:360][302]LoadErrors: Error: /Game/TankLeagueMap : Can't find file for asset. /Game/Blueprints/NewPlayerController
+[2019.11.08-11.00.54:360][302]LogLinker: Warning: Can't find file '/Game/Blueprints/NewPlayerController'
+[2019.11.08-11.00.54:360][302]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/NewPlayerController' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:360][302]LogLinker: Warning: Can't find file '/Game/Blueprints/NewPlayerController'
+[2019.11.08-11.00.54:360][302]LoadErrors: Failed to load /Game/Blueprints/NewPlayerController.NewPlayerController_C Referenced by Default__TopDownGameMode_C
+[2019.11.08-11.00.54:360][302]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/NewPlayerController' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:361][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:361][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:361][302]LoadErrors: Error: /Game/TankLeagueMap : Can't find file for asset. /Game/VehicleBP/Sedan/Sedan
+[2019.11.08-11.00.54:362][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:362][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:362][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:362][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:400][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:400][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:400][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:400][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:400][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:400][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:401][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:402][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:402][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap.
+[2019.11.08-11.00.54:402][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:402][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:402][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:402][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:403][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:404][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:404][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:404][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:405][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:405][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:406][302]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2019.11.08-11.00.54:406][302]LogLinker: Warning: Can't find file for asset '/Game/VehicleBP/Sedan/Sedan' while loading NULL.
+[2019.11.08-11.00.54:522][302]LogAIModule: Creating AISystem for world TankLeagueMap
+[2019.11.08-11.00.54:531][302]LogAssetEditorManager: Opening Asset editor for World /Game/TankLeagueMap.TankLeagueMap
+[2019.11.08-11.00.54:553][302]Cmd: MAP LOAD FILE="D:/GIT/Tank-League/TankLeague/Content/TankLeagueMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.08-11.00.54:553][302]LightingResults: New page: Lighting Build
+[2019.11.08-11.00.54:557][302]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.11.08-11.00.54:558][302]LoadErrors: New page: Loading map: TankLeagueMap.umap
+[2019.11.08-11.00.54:558][302]MapCheck: New page: Map Check
+[2019.11.08-11.00.54:558][302]LightingResults: New page: Lighting Build
+[2019.11.08-11.00.54:627][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.08-11.00.54:667][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.08-11.00.54:667][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2019.11.08-11.00.54:667][302]LogFileHelpers: Loading map 'TankLeagueMap' took 0.114
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ChaseCamera': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InternalCamera': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Scene': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'VehicleMesh': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpringArm': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InCarGear': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InCarSpeed': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.54:692][302]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'MovementComp': Sedan_C /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.Sedan_2
+[2019.11.08-11.00.58:138][507]LogEditorViewport: Clicking on Actor (LMB): TankBak_C (TankBak)
+[2019.11.08-11.00.59:753][602]Cmd: DELETE
+[2019.11.08-11.00.59:753][602]Cmd: ACTOR DELETE
+[2019.11.08-11.00.59:758][602]LogEditorActor: Deleted Actor: TankBak_C
+[2019.11.08-11.00.59:778][602]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.08-11.01.01:345][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.01.14:037][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.01.16:407][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.01.16:601][606]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TankBak.TankBak
+[2019.11.08-11.01.16:985][606]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.11.08-11.01.17:613][606]LogSlate: Took 0.004889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.08-11.01.17:669][607]LogSlate: Took 0.004022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.08-11.01.18:904][679]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:1).
+[2019.11.08-11.01.50:514][573]BlueprintLog: New page: Compile TankBak
+[2019.11.08-11.01.50:518][573]LogBlueprint: Error: [Compiler TankBak] This blueprint (self) is not a WheeledVehicleMovementComponent, therefore ' Target ' must have a connection.
+[2019.11.08-11.01.50:655][573]LogBlueprint: Warning: [Compiler TankBak] [0089.18] Compile of TankBak failed. 1 Fatal Issue(s) 0 Warning(s) [in 140 ms] (/Game/Blueprints/TankBak.TankBak)
+[2019.11.08-11.08.04:205][218]LogSlate: Window 'TankBak*' being destroyed
+[2019.11.08-11.08.04:210][218]LogSlate: Window 'TankBak*' being destroyed
+[2019.11.08-11.08.21:107][521]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.08-11.08.27:581][900]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/tank2.tank2
+[2019.11.08-11.09.01:906][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.09.14:993][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.09.25:516][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.09.25:599][351]BlueprintLog: New page: Compile tank2
+[2019.11.08-11.09.26:181][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/tank2" FILE="D:/GIT/Tank-League/TankLeague/Content/Blueprints/tank2.uasset" SILENT=true
+[2019.11.08-11.09.26:198][376]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague/Saved/tank2548AE7C641D0B6FF2F7EED996F67DB60.tmp' to 'D:/GIT/Tank-League/TankLeague/Content/Blueprints/tank2.uasset'
+[2019.11.08-11.09.32:134][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-11.09.32:217][735]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-11.09.32:234][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.08-11.09.32:234][735]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.08-11.09.32:236][735]LogPlayLevel: [PlayLevel] Compiling TankBak before play...
+[2019.11.08-11.09.32:351][735]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2019.11.08-11.09.32:351][735]PIE: New page: PIE session: TankLeagueMap (Nov 8, 2019, 1:09:32 PM)
+[2019.11.08-11.09.32:363][735]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TankLeagueMap
+[2019.11.08-11.09.32:376][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012926s)
+[2019.11.08-11.09.32:377][735]LogAIModule: Creating AISystem for world TankLeagueMap
+[2019.11.08-11.09.32:377][735]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.11.08-11.09.32:377][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TankLeagueMap.TankLeagueMap to /Game/UEDPIE_0_TankLeagueMap.TankLeagueMap (0.013877s)
+[2019.11.08-11.09.32:423][735]LogInit: XAudio2 using 'Speakers (Samson Meteor Mic)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-11.09.32:435][735]LogInit: FAudioDevice initialized.
+[2019.11.08-11.09.32:480][735]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.11.08-11.09.32:482][735]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.08-11.09.43:377][735]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.895 s
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: 
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 18]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: Stack: 
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe0ea1725 UE4Editor-Engine.dll!UPawnMovementComponent::SetUpdatedComponent() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\pawnmovementcomponent.cpp:18]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe0e8da0b UE4Editor-Engine.dll!UMovementComponent::OnRegister() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\movementcomponent.cpp:169]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe0dfddf3 UE4Editor-Engine.dll!UActorComponent::ExecuteRegisterEvents() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\actorcomponent.cpp:1250]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe0e2861a UE4Editor-Engine.dll!UActorComponent::RegisterComponentWithWorld() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\actorcomponent.cpp:987]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe09d53e1 UE4Editor-Engine.dll!AActor::IncrementalRegisterComponents() [d:\build\++ue4\sync\engine\source\runtime\engine\private\actor.cpp:4234]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe12f15a2 UE4Editor-Engine.dll!ULevel::IncrementalUpdateComponents() [d:\build\++ue4\sync\engine\source\runtime\engine\private\level.cpp:975]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe1df0053 UE4Editor-Engine.dll!UWorld::UpdateWorldComponents() [d:\build\++ue4\sync\engine\source\runtime\engine\private\world.cpp:1689]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe1dc7534 UE4Editor-Engine.dll!UWorld::InitializeActorsForPlay() [d:\build\++ue4\sync\engine\source\runtime\engine\private\world.cpp:3595]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbe115c067 UE4Editor-Engine.dll!UGameInstance::StartPlayInEditorGameInstance() [d:\build\++ue4\sync\engine\source\runtime\engine\private\gameinstance.cpp:376]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbdeb9ac89 UE4Editor-UnrealEd.dll!UEditorEngine::CreatePIEGameInstance() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:3324]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbdebbb350 UE4Editor-UnrealEd.dll!UEditorEngine::PlayInEditor() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:2451]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbdebd92e6 UE4Editor-UnrealEd.dll!UEditorEngine::StartQueuedPlayMapRequest() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\playlevel.cpp:1270]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbde5d1891 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1640]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffbdeef2346 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ff666d06225 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3699]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ff666d1596c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:174]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ff666d159ea UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ff666d248da UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:276]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ff666d2659a UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffc45dc7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: [Callstack] 0x00007ffc47d6ced1 ntdll.dll!UnknownFunction []
+[2019.11.08-11.09.43:377][735]LogOutputDevice: Error: 
+[2019.11.08-11.09.43:381][735]LogStats:                SubmitErrorReport -  0.000 s
