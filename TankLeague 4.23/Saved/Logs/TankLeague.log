@@ -6290,3 +6290,1437 @@ Missing Cooked Info(expected 0): 0
 
 [2019.11.09-17.12.08:336][523]LogPlayLevel: Completed Launch On Stage: Post Launch Task, Time: 0.000006
 [2019.11.09-17.12.08:336][523]LogPlayLevel: Launch On Completed. Time: 52.672191
+[2019.11.09-17.12.35:642][842]LogAssetEditorManager: Opening Asset editor for World /Game/TankLeagueMap.TankLeagueMap
+[2019.11.09-17.12.35:760][842]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2019.11.09-17.12.35:762][842]Cmd: MAP LOAD FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/TankLeagueMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.09-17.12.35:762][842]LightingResults: New page: Lighting Build
+[2019.11.09-17.12.35:762][842]LoadErrors: New page: Loading map: TankLeagueMap.umap
+[2019.11.09-17.12.35:778][842]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-17.12.35:815][842]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-17.12.35:815][842]MapCheck: New page: Map Check
+[2019.11.09-17.12.35:815][842]LightingResults: New page: Lighting Build
+[2019.11.09-17.12.35:901][842]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2019.11.09-17.12.36:005][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.09-17.12.36:073][842]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.11.09-17.12.36:093][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.09-17.12.36:093][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2019.11.09-17.12.36:095][842]LogFileHelpers: Loading map 'TankLeagueMap' took 0.334
+[2019.11.09-17.12.41:585][167]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/TankLeagueHUD.TankLeagueHUD
+[2019.11.09-17.13.25:964][773]BlueprintLog: New page: Compile TankLeagueHUD
+[2019.11.09-17.13.26:257][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.11.09-17.13.26:488][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TankLeagueHUD" FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/TankLeagueHUD.uasset" SILENT=true
+[2019.11.09-17.13.26:524][783]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague 4.23/Saved/TankLeagueHUDF417D83C495A4DB4A72BEBB65D8B4307.tmp' to 'D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/TankLeagueHUD.uasset'
+[2019.11.09-17.13.28:670][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.11.09-17.13.28:670][908]LogPlayLevel: Launcher Device ID: WindowsNoEditor@TOPLAP
+[2019.11.09-17.13.28:673][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-17.13.29:015][908]LogCook: Display: Discovering localized assets
+[2019.11.09-17.13.30:187][908]LogCook: Display: Iterative cooking summary for AllDesktop, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:196][908]LogCook: Display: Iterative cooking summary for MacClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:202][908]LogCook: Display: Iterative cooking summary for MacNoEditor, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:208][908]LogCook: Display: Iterative cooking summary for MacServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:214][908]LogCook: Display: Iterative cooking summary for Mac, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:220][908]LogCook: Display: Iterative cooking summary for WindowsClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:226][908]LogCook: Display: Iterative cooking summary for WindowsNoEditor, 
+Considered: 380, 
+File Hash missmatch: 5, 
+Packages Kept: 375, 
+Packages failed save kept: 5, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:232][908]LogCook: Display: Iterative cooking summary for WindowsServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:238][908]LogCook: Display: Iterative cooking summary for Windows, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:244][908]LogCook: Display: Iterative cooking summary for Android, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:252][908]LogCook: Display: Iterative cooking summary for Android_ASTC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:260][908]LogCook: Display: Iterative cooking summary for Android_ATC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:267][908]LogCook: Display: Iterative cooking summary for Android_DXT, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:274][908]LogCook: Display: Iterative cooking summary for Android_ETC1, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:280][908]LogCook: Display: Iterative cooking summary for Android_ETC1a, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:289][908]LogCook: Display: Iterative cooking summary for Android_ETC2, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:298][908]LogCook: Display: Iterative cooking summary for Android_PVRTC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:306][908]LogCook: Display: Iterative cooking summary for AndroidClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:311][908]LogCook: Display: Iterative cooking summary for Android_ASTCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:317][908]LogCook: Display: Iterative cooking summary for Android_ATCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:323][908]LogCook: Display: Iterative cooking summary for Android_DXTClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:332][908]LogCook: Display: Iterative cooking summary for Android_ETC1Client, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:339][908]LogCook: Display: Iterative cooking summary for Android_ETC1aClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:346][908]LogCook: Display: Iterative cooking summary for Android_ETC2Client, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:352][908]LogCook: Display: Iterative cooking summary for Android_PVRTCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:358][908]LogCook: Display: Iterative cooking summary for Android_Multi, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:364][908]LogCook: Display: Iterative cooking summary for Android_MultiClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:371][908]LogCook: Display: Iterative cooking summary for HTML5, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:380][908]LogCook: Display: Iterative cooking summary for IOSClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:387][908]LogCook: Display: Iterative cooking summary for IOS, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:393][908]LogCook: Display: Iterative cooking summary for TVOSClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:400][908]LogCook: Display: Iterative cooking summary for TVOS, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:406][908]LogCook: Display: Iterative cooking summary for LinuxClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:413][908]LogCook: Display: Iterative cooking summary for LinuxNoEditor, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:421][908]LogCook: Display: Iterative cooking summary for LinuxServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:427][908]LogCook: Display: Iterative cooking summary for Linux, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:433][908]LogCook: Display: Iterative cooking summary for Lumin, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:440][908]LogCook: Display: Iterative cooking summary for LuminClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.13.30:440][908]LogCook: Display: Sandbox cleanup took 1.418 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin LuminClient  iterative true
+[2019.11.09-17.13.31:213][909]LogCook: Display: Cooked packages 380 Packages Remain 26 Total 406
+[2019.11.09-17.13.31:223][909]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.09-17.13.31:283][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.11.09-17.13.32:001][910]LogCook: Display: Cooked packages 384 Packages Remain 25 Total 409
+[2019.11.09-17.13.32:007][910]LogCook: Display: Cooked packages 385 Packages Remain 23 Total 408
+[2019.11.09-17.13.32:007][910]LogCook: Display: Cooked packages 385 Packages Remain 0 Total 385
+[2019.11.09-17.13.32:007][910]LogCook: Display: Finishing up...
+[2019.11.09-17.13.32:012][910]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.11.09-17.13.32:012][910]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.11.09-17.13.32:012][910]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.11.09-17.13.32:053][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:054][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:055][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:074][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:074][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:083][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:086][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:086][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:115][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:115][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:127][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:129][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:129][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:157][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:157][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:169][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:172][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.11.09-17.13.32:172][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:193][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:194][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:207][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:209][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:209][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:231][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:231][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:241][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:243][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.11.09-17.13.32:243][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:270][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:270][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:283][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:284][910]LogAssetRegistryGenerator: Chunk: 0, Started with 381 packages, Final after dependency resolve: 381
+[2019.11.09-17.13.32:285][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:285][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:304][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 380, size is 208.81kb
+[2019.11.09-17.13.32:304][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:314][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:316][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:316][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:339][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:339][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:350][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:352][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:352][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:375][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:375][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:383][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:385][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:385][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:408][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:408][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:416][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:420][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.11.09-17.13.32:420][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:442][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:443][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:453][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:457][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.11.09-17.13.32:457][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:490][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:490][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:500][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:502][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:502][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:526][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:526][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:534][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:537][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.11.09-17.13.32:537][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:565][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:565][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:574][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:576][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:576][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:602][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:602][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:614][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:617][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.11.09-17.13.32:618][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:643][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:643][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:653][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:657][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.11.09-17.13.32:657][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:681][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:681][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:695][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:697][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:697][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:727][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:727][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:736][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:739][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:739][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:760][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:760][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:769][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:771][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:771][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:794][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:794][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:803][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:804][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:804][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:827][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:827][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:835][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:837][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:837][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:860][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:860][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:870][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:872][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:872][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:893][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:893][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:902][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:904][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:904][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:927][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:927][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:938][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:939][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:939][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:962][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:962][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.32:972][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.32:973][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.32:973][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.32:998][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.32:998][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:008][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:010][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:010][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:032][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:032][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:044][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:046][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:046][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:073][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:073][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:082][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:083][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:083][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:113][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:113][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:124][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:127][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.11.09-17.13.33:128][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:154][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:154][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:164][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:166][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:166][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:192][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:192][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:202][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:204][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:204][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:225][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:225][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:234][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:236][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:236][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:260][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:260][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:269][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:271][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:271][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:293][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:293][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:302][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:303][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:303][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:327][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:327][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:338][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:342][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2019.11.09-17.13.33:342][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:362][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:362][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:373][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:377][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.11.09-17.13.33:377][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:400][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:400][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:412][910]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.13.33:413][910]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.13.33:413][910]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.13.33:437][910]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.13.33:437][910]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.13.33:442][910]LogCook: Display: Cook by the book total time in tick 0.438223s total time 4.768113
+[2019.11.09-17.13.33:442][910]LogCook: Display: Peak Used virtual 6164MB Peak Used physical 3173MB
+[2019.11.09-17.13.33:442][910]LogCook: Display: Hierarchy Timer Information:
+[2019.11.09-17.13.33:442][910]LogCook: Display:   Root: 0.000s (0)
+[2019.11.09-17.13.33:442][910]LogCook: Display:     StartCookByTheBookTime: 2.518s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       CleanSandboxTime: 1.418s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       CollectFilesToCook: 0.105s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:     TickCookOnTheSide: 0.438s (2)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.000s (2)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       PostLoadPackageFixup: 0.000s (2)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       SavingPackages: 0.432s (2)
+[2019.11.09-17.13.33:442][910]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.000s (3)
+[2019.11.09-17.13.33:442][910]LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.001s (2)
+[2019.11.09-17.13.33:442][910]LogCook: Display:         SaveCookedPackage: 0.430s (5)
+[2019.11.09-17.13.33:442][910]LogCook: Display:           LoadPackage: 0.000s (5)
+[2019.11.09-17.13.33:442][910]LogCook: Display:           GEditorSavePackage: 0.430s (5)
+[2019.11.09-17.13.33:442][910]LogCook: Display:             ConvertingBlueprints: 0.001s (5)
+[2019.11.09-17.13.33:442][910]LogCook: Display:             VerifyCanCookPackage: 0.000s (5)
+[2019.11.09-17.13.33:442][910]LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:     SavingCurrentIniSettings: 0.036s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:     SavingAssetRegistry: 1.393s (1)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       BuildChunkManifest: 0.221s (38)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       SaveManifests: 0.091s (38)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       SaveRealAssetRegistry: 0.917s (38)
+[2019.11.09-17.13.33:442][910]LogCook: Display:       WriteCookerOpenOrder: 0.164s (38)
+[2019.11.09-17.13.33:442][910]LogCook: Display: Done!
+[2019.11.09-17.13.33:822][910]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 1.308267
+[2019.11.09-17.13.34:197][912]LogPlayLevel: Running AutomationTool...
+[2019.11.09-17.13.34:477][930]LogPlayLevel: Parsing command line: -ScriptsForProject="D:/GIT/Tank-League/TankLeague 4.23/TankLeague.uproject" BuildCookRun -project="D:/GIT/Tank-League/TankLeague 4.23/TankLeague.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -map=/Game/TankLeagueMap -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -nocompile -stage -deploy -cmdline="/Game/TankLeagueMap -Messaging" -device=WindowsNoEditor@TOPLAP -addcmdline="-SessionId=2A2B133C49FF8E4EEFD8D6BF41070BFB -SessionOwner='Sammy' -SessionName='Launch On Device'  " -run
+[2019.11.09-17.13.34:881][954]LogPlayLevel: Setting up ProjectParams for D:\GIT\Tank-League\TankLeague 4.23\TankLeague.uproject
+[2019.11.09-17.13.34:948][958]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2019.11.09-17.13.35:012][962]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.005367
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Creating Staging Manifest...
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.11.09-17.13.35:581][996]LogPlayLevel: Excluding config file D:\GIT\Tank-League\TankLeague 4.23\Config\DefaultEditor.ini
+[2019.11.09-17.13.35:646][  0]LogPlayLevel: Excluding config file D:\GIT\Tank-League\TankLeague 4.23\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.11.09-17.13.36:260][ 37]LogPlayLevel: Cleaning Stage Directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.13.36:428][ 47]LogPlayLevel: Copying NonUFSFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.13.41:405][312]LogPlayLevel: Copying UFSFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.13.41:925][343]LogPlayLevel: Copying DebugFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.13.41:940][344]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2019.11.09-17.13.41:940][344]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2019.11.09-17.13.41:940][344]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2019.11.09-17.13.41:940][344]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2019.11.09-17.13.41:940][344]LogPlayLevel: Warning: WARNING: Win64 does not implement Deploy...
+[2019.11.09-17.13.41:940][344]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2019.11.09-17.13.41:940][344]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2019.11.09-17.13.41:955][345]LogPlayLevel: Starting Client....
+[2019.11.09-17.13.42:038][350]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 6.512438
+[2019.11.09-17.13.45:040][530]LogPlayLevel: Running: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor\Engine\Binaries\Win64\UE4Game.exe ../../../TankLeague/TankLeague.uproject /Game/TankLeagueMap -stdout -abslog="C:\Users\Sammy\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=2A2B133C49FF8E4EEFD8D6BF41070BFB -SessionOwner="Sammy" -SessionName="Launch On Device"
+[2019.11.09-17.13.45:040][530]LogPlayLevel: LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.11.09-17.13.48:355][729]LogPlayLevel: LogInit: Display: Running engine for game: TankLeague
+[2019.11.09-17.13.48:833][757]LogPlayLevel: LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+[2019.11.09-17.13.53:626][  4]LogPlayLevel: [2019.11.09-17.13.48:818][  0]LogHAL: Display: Platform has ~ 16 GB [17048064000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-17.13.57:628][ 16]LogPlayLevel: [2019.11.09-17.13.53:446][  0]LogStreaming: Display: Flushing async loaders.
+[2019.11.09-17.13.58:296][ 18]LogPlayLevel: [2019.11.09-17.13.57:463][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-17.13.58:297][ 18]LogPlayLevel: [2019.11.09-17.13.58:234][  0]LogInit: Display: Game Engine Initialized.
+[2019.11.09-17.13.59:630][ 22]LogPlayLevel: [2019.11.09-17.13.58:245][  0]LogInit: Display: Starting Game.
+[2019.11.09-17.14.09:652][ 52]LogPlayLevel: [2019.11.09-17.13.59:584][  0]LogUMG: Display: Widget Class TankLeagueHUD_C - Loaded Fast Template.
+[2019.11.09-17.14.20:362][ 84]LogPlayLevel: [2019.11.09-17.14.09:530][565]LogUMG: Display: Widget Class PauseMenu_C - Loaded Fast Template.
+[2019.11.09-17.14.22:479][211]LogPlayLevel: [2019.11.09-17.14.20:163][ 93]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-17.14.22:480][211]LogPlayLevel: ********** RUN COMMAND COMPLETED **********
+[2019.11.09-17.14.22:480][211]LogPlayLevel: BUILD SUCCESSFUL
+[2019.11.09-17.14.22:512][213]LogPlayLevel: AutomationTool exiting with ExitCode=0 (Success)
+[2019.11.09-17.14.22:513][213]LogPlayLevel: Unable to read VR Path Registry from C:\Users\Sammy\AppData\Local\openvr\openvrpaths.vrpath
+[2019.11.09-17.14.22:513][213]LogPlayLevel: Unable to read VR Path Registry from C:\Users\Sammy\AppData\Local\openvr\openvrpaths.vrpath
+[2019.11.09-17.14.22:628][220]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 40.090076
+[2019.11.09-17.14.23:129][250]LogPlayLevel: Unable to read VR Path Registry from C:\Users\Sammy\AppData\Local\openvr\openvrpaths.vrpath
+
+[2019.11.09-17.14.23:130][250]LogPlayLevel: Completed Launch On Stage: Post Launch Task, Time: 0.000011
+[2019.11.09-17.14.23:130][250]LogPlayLevel: Launch On Completed. Time: 51.923670
+[2019.11.09-17.14.25:273][378]LogSlate: Window 'Output Log' being destroyed
+[2019.11.09-17.14.25:277][378]LogSlate: Window 'Output Log' being destroyed
+[2019.11.09-17.14.31:092][681]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.09-17.14.34:310][869]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.09-17.14.34:314][869]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.09-17.14.35:742][947]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2019.11.09-17.14.35:742][947]LogPlayLevel: Launcher Device ID: WindowsNoEditor@TOPLAP
+[2019.11.09-17.14.35:749][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-17.14.36:130][947]LogCook: Display: Discovering localized assets
+[2019.11.09-17.14.37:231][947]LogCook: Display: Iterative cooking summary for AllDesktop, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:237][947]LogCook: Display: Iterative cooking summary for MacClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:243][947]LogCook: Display: Iterative cooking summary for MacNoEditor, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:249][947]LogCook: Display: Iterative cooking summary for MacServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:255][947]LogCook: Display: Iterative cooking summary for Mac, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:261][947]LogCook: Display: Iterative cooking summary for WindowsClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:267][947]LogCook: Display: Iterative cooking summary for WindowsNoEditor, 
+Considered: 380, 
+File Hash missmatch: 0, 
+Packages Kept: 380, 
+Packages failed save kept: 5, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:273][947]LogCook: Display: Iterative cooking summary for WindowsServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:278][947]LogCook: Display: Iterative cooking summary for Windows, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:284][947]LogCook: Display: Iterative cooking summary for Android, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:290][947]LogCook: Display: Iterative cooking summary for Android_ASTC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:296][947]LogCook: Display: Iterative cooking summary for Android_ATC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:301][947]LogCook: Display: Iterative cooking summary for Android_DXT, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:307][947]LogCook: Display: Iterative cooking summary for Android_ETC1, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:313][947]LogCook: Display: Iterative cooking summary for Android_ETC1a, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:319][947]LogCook: Display: Iterative cooking summary for Android_ETC2, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:325][947]LogCook: Display: Iterative cooking summary for Android_PVRTC, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:330][947]LogCook: Display: Iterative cooking summary for AndroidClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:336][947]LogCook: Display: Iterative cooking summary for Android_ASTCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:341][947]LogCook: Display: Iterative cooking summary for Android_ATCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:348][947]LogCook: Display: Iterative cooking summary for Android_DXTClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:354][947]LogCook: Display: Iterative cooking summary for Android_ETC1Client, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:359][947]LogCook: Display: Iterative cooking summary for Android_ETC1aClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:365][947]LogCook: Display: Iterative cooking summary for Android_ETC2Client, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:371][947]LogCook: Display: Iterative cooking summary for Android_PVRTCClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:376][947]LogCook: Display: Iterative cooking summary for Android_Multi, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:382][947]LogCook: Display: Iterative cooking summary for Android_MultiClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:388][947]LogCook: Display: Iterative cooking summary for HTML5, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:393][947]LogCook: Display: Iterative cooking summary for IOSClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:399][947]LogCook: Display: Iterative cooking summary for IOS, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:405][947]LogCook: Display: Iterative cooking summary for TVOSClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:411][947]LogCook: Display: Iterative cooking summary for TVOS, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:417][947]LogCook: Display: Iterative cooking summary for LinuxClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:422][947]LogCook: Display: Iterative cooking summary for LinuxNoEditor, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:428][947]LogCook: Display: Iterative cooking summary for LinuxServer, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:434][947]LogCook: Display: Iterative cooking summary for Linux, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:440][947]LogCook: Display: Iterative cooking summary for Lumin, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:447][947]LogCook: Display: Iterative cooking summary for LuminClient, 
+Considered: 0, 
+File Hash missmatch: 0, 
+Packages Kept: 0, 
+Packages failed save kept: 0, 
+Missing Cooked Info(expected 0): 0
+[2019.11.09-17.14.37:447][947]LogCook: Display: Sandbox cleanup took 1.308 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin LuminClient  iterative true
+[2019.11.09-17.14.38:096][948]LogCook: Display: Cooked packages 385 Packages Remain 22 Total 407
+[2019.11.09-17.14.38:096][948]LogCook: Display: Cooked packages 385 Packages Remain 0 Total 385
+[2019.11.09-17.14.38:096][948]LogCook: Display: Finishing up...
+[2019.11.09-17.14.38:133][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:135][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:135][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:152][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:152][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:160][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:162][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:162][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:180][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:180][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:190][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:190][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:190][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:210][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:210][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:218][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:220][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:220][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:240][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:240][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:249][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:250][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:250][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:270][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:270][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:279][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:281][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:281][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:300][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:300][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:315][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:316][948]LogAssetRegistryGenerator: Chunk: 0, Started with 381 packages, Final after dependency resolve: 381
+[2019.11.09-17.14.38:317][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:317][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:337][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 380, size is 208.81kb
+[2019.11.09-17.14.38:337][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:344][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:345][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:345][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:365][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:365][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:376][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:377][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:377][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:397][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:397][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:407][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:408][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:409][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:428][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:428][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:437][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:439][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:439][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:459][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:459][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:470][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:470][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:471][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:490][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:490][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:498][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:500][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:500][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:520][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:520][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:529][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:533][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.11.09-17.14.38:533][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:558][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:558][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:571][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:573][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:573][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:596][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:596][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:605][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:606][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:606][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:626][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:626][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:635][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:636][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:637][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:656][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:656][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:664][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:666][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:666][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:698][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:698][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:707][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:708][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:708][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:731][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:731][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:740][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:741][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:741][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:761][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:761][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:771][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:773][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:773][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:805][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:805][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:813][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:815][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:815][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:835][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:835][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:843][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:845][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:845][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:865][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:866][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:875][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:876][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:876][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:896][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:896][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:905][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:906][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:906][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:924][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:924][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:933][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:934][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:935][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:956][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:957][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.38:969][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.38:970][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.38:970][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.38:989][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.38:989][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:002][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:004][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:004][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:027][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:027][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:036][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:038][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:038][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:057][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:057][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:065][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:067][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:068][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:087][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:087][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:096][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:098][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:098][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:117][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:117][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:132][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:137][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2019.11.09-17.14.39:137][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:157][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:157][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:166][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:169][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:169][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:188][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:188][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:197][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:199][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:199][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:220][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:220][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:228][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:230][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:230][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:253][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:253][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:262][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:264][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:264][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:285][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:285][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:293][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:294][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:294][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:313][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:313][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:326][948]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.11.09-17.14.39:327][948]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2019.11.09-17.14.39:327][948]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.14.39:347][948]LogAssetRegistryGenerator: Display: Generated asset registry num assets 0, size is  0.04kb
+[2019.11.09-17.14.39:347][948]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.14.39:350][948]LogCook: Display: Cook by the book total time in tick 0.000051s total time 3.601815
+[2019.11.09-17.14.39:350][948]LogCook: Display: Peak Used virtual 6708MB Peak Used physical 3449MB
+[2019.11.09-17.14.39:351][948]LogCook: Display: Hierarchy Timer Information:
+[2019.11.09-17.14.39:351][948]LogCook: Display:   Root: 0.000s (0)
+[2019.11.09-17.14.39:351][948]LogCook: Display:     StartCookByTheBookTime: 2.331s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       CleanSandboxTime: 1.308s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       CollectFilesToCook: 0.099s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:     SavingCurrentIniSettings: 0.034s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:     SavingAssetRegistry: 1.221s (1)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       BuildChunkManifest: 0.201s (38)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       SaveManifests: 0.076s (38)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       SaveRealAssetRegistry: 0.787s (38)
+[2019.11.09-17.14.39:351][948]LogCook: Display:       WriteCookerOpenOrder: 0.156s (38)
+[2019.11.09-17.14.39:351][948]LogCook: Display: Done!
+[2019.11.09-17.14.39:401][951]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 0.302118
+[2019.11.09-17.14.40:037][989]LogPlayLevel: Running AutomationTool...
+[2019.11.09-17.14.40:317][  6]LogPlayLevel: Parsing command line: -ScriptsForProject="D:/GIT/Tank-League/TankLeague 4.23/TankLeague.uproject" BuildCookRun -project="D:/GIT/Tank-League/TankLeague 4.23/TankLeague.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -map=/Game/TankLeagueMap -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -nocompile -stage -deploy -cmdline="/Game/TankLeagueMap -Messaging" -device=WindowsNoEditor@TOPLAP -addcmdline="-SessionId=2A2B133C49FF8E4EEFD8D6BF41070BFB -SessionOwner='Sammy' -SessionName='Launch On Device'  " -run
+[2019.11.09-17.14.40:708][ 10]LogPlayLevel: Setting up ProjectParams for D:\GIT\Tank-League\TankLeague 4.23\TankLeague.uproject
+[2019.11.09-17.14.40:708][ 10]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Creating Staging Manifest...
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.11.09-17.14.41:043][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.11.09-17.14.41:044][ 11]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.11.09-17.14.41:044][ 11]LogPlayLevel: Excluding config file D:\GIT\Tank-League\TankLeague 4.23\Config\DefaultEditor.ini
+[2019.11.09-17.14.41:044][ 11]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.005984
+[2019.11.09-17.14.41:044][ 11]LogPlayLevel: Excluding config file D:\GIT\Tank-League\TankLeague 4.23\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.11.09-17.14.41:711][ 12]LogPlayLevel: Cleaning Stage Directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.14.41:711][ 12]LogPlayLevel: Copying NonUFSFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.14.46:047][197]LogPlayLevel: Copying UFSFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.14.46:265][210]LogPlayLevel: Copying DebugFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.14.46:280][211]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2019.11.09-17.14.46:280][211]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2019.11.09-17.14.46:280][211]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2019.11.09-17.14.46:280][211]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2019.11.09-17.14.46:280][211]LogPlayLevel: Warning: WARNING: Win64 does not implement Deploy...
+[2019.11.09-17.14.46:280][211]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2019.11.09-17.14.46:280][211]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2019.11.09-17.14.46:295][212]LogPlayLevel: Starting Client....
+[2019.11.09-17.14.46:413][219]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 5.013076
+[2019.11.09-17.14.49:580][408]LogPlayLevel: Running: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor\Engine\Binaries\Win64\UE4Game.exe ../../../TankLeague/TankLeague.uproject /Game/TankLeagueMap -stdout -abslog="C:\Users\Sammy\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=2A2B133C49FF8E4EEFD8D6BF41070BFB -SessionOwner="Sammy" -SessionName="Launch On Device"
+[2019.11.09-17.14.49:580][408]LogPlayLevel: LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.11.09-17.14.51:747][538]LogPlayLevel: LogInit: Display: Running engine for game: TankLeague
+[2019.11.09-17.14.52:049][556]LogPlayLevel: LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+[2019.11.09-17.14.56:021][793]LogPlayLevel: [2019.11.09-17.14.52:042][  0]LogHAL: Display: Platform has ~ 16 GB [17048064000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-17.15.00:164][908]LogPlayLevel: [2019.11.09-17.14.56:008][  0]LogStreaming: Display: Flushing async loaders.
+[2019.11.09-17.15.00:832][910]LogPlayLevel: [2019.11.09-17.15.00:009][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-17.15.00:832][910]LogPlayLevel: [2019.11.09-17.15.00:715][  0]LogInit: Display: Game Engine Initialized.
+[2019.11.09-17.15.02:166][914]LogPlayLevel: [2019.11.09-17.15.00:720][  0]LogInit: Display: Starting Game.
+[2019.11.09-17.15.04:835][922]LogPlayLevel: [2019.11.09-17.15.02:076][  0]LogUMG: Display: Widget Class TankLeagueHUD_C - Loaded Fast Template.
+[2019.11.09-17.15.06:834][928]LogPlayLevel: [2019.11.09-17.15.04:511][ 87]LogUMG: Display: Widget Class PauseMenu_C - Loaded Fast Template.
+[2019.11.09-17.15.09:241][ 71]LogPlayLevel: [2019.11.09-17.15.06:713][153]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-17.15.09:242][ 71]LogPlayLevel: ********** RUN COMMAND COMPLETED **********
+[2019.11.09-17.15.09:242][ 71]LogPlayLevel: BUILD SUCCESSFUL
+[2019.11.09-17.15.09:273][ 73]LogPlayLevel: AutomationTool exiting with ExitCode=0 (Success)
+[2019.11.09-17.15.09:273][ 73]LogPlayLevel: Unable to read VR Path Registry from C:\Users\Sammy\AppData\Local\openvr\openvrpaths.vrpath
+[2019.11.09-17.15.09:273][ 73]LogPlayLevel: Unable to read VR Path Registry from C:\Users\Sammy\AppData\Local\openvr\openvrpaths.vrpath
+[2019.11.09-17.15.09:462][ 84]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 22.552345
+[2019.11.09-17.15.09:974][115]LogPlayLevel: Unable to read VR Path Registry from C:\Users\Sammy\AppData\Local\openvr\openvrpaths.vrpath
+
+[2019.11.09-17.15.09:974][115]LogPlayLevel: Completed Launch On Stage: Post Launch Task, Time: 0.000013
+[2019.11.09-17.15.09:974][115]LogPlayLevel: Launch On Completed. Time: 31.880380
+[2019.11.09-17.15.10:554][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.11.09-17.15.12:130][148]UATHelper: Packaging (Windows (32-bit)): Running AutomationTool...
+[2019.11.09-17.15.12:194][152]UATHelper: Packaging (Windows (32-bit)): Parsing command line: -ScriptsForProject="D:/GIT/Tank-League/TankLeague 4.23/TankLeague.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="D:/GIT/Tank-League/TankLeague 4.23/TankLeague.uproject" -cook -stage -archive -archivedirectory=D:/GIT/Tank-League/Build -package -clientconfig=Shipping -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win32 -utf8output
+[2019.11.09-17.15.12:477][169]UATHelper: Packaging (Windows (32-bit)): Setting up ProjectParams for D:\GIT\Tank-League\TankLeague 4.23\TankLeague.uproject
+[2019.11.09-17.15.12:797][188]UATHelper: Packaging (Windows (32-bit)): ********** COOK COMMAND STARTED **********
+[2019.11.09-17.15.12:797][188]UATHelper: Packaging (Windows (32-bit)): Running UE4Editor Cook for project D:\GIT\Tank-League\TankLeague 4.23\TankLeague.uproject
+[2019.11.09-17.15.12:797][188]UATHelper: Packaging (Windows (32-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.11.09-18.15.12.txt
+[2019.11.09-17.15.12:797][188]UATHelper: Packaging (Windows (32-bit)): Running: C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "D:\GIT\Tank-League\TankLeague 4.23\TankLeague.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="C:\Program Files\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.11.09-18.15.12.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.11.09-17.15.12:928][196]UATHelper: Packaging (Windows (32-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.11.09-17.15.12:929][196]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: Running engine for game: TankLeague
+[2019.11.09-17.15.14:220][254]UATHelper: Packaging (Windows (32-bit)):   LogHAL: Display: Platform has ~ 16 GB [17048064000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-17.15.14:889][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.09-17.15.14:889][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.09-17.15.14:889][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.09-17.15.14:889][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.09-17.15.14:890][256]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-17.15.15:226][257]UATHelper: Packaging (Windows (32-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.09-17.15.15:561][258]UATHelper: Packaging (Windows (32-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.09-17.15.15:561][258]UATHelper: Packaging (Windows (32-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sammy/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.09-17.15.15:561][258]UATHelper: Packaging (Windows (32-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.09-17.15.16:223][259]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2019.11.09-17.15.16:223][259]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2019.11.09-17.15.16:223][259]UATHelper: Packaging (Windows (32-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2019.11.09-17.15.16:223][259]PackagingResults: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2019.11.09-17.15.16:223][259]PackagingResults: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2019.11.09-17.15.16:223][259]PackagingResults: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2019.11.09-17.15.16:895][262]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.09-17.15.16:895][262]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Mobile HDR setting 1
+[2019.11.09-17.15.16:895][262]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Creating asset registry
+[2019.11.09-17.15.17:229][263]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Discovering localized assets
+[2019.11.09-17.15.17:230][263]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.11.09-17.15.17:230][263]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.11.09-17.15.17:230][263]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Sandbox cleanup took 0.077 seconds for platforms WindowsNoEditor  iterative false
+[2019.11.09-17.15.17:900][265]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 169 Total 169
+[2019.11.09-17.15.18:238][266]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 170 Total 220
+[2019.11.09-17.15.18:238][266]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 169 Total 269
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 144 Packages Remain 168 Total 312
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 146 Packages Remain 167 Total 313
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 147 Packages Remain 166 Total 313
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 148 Packages Remain 165 Total 313
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 149 Packages Remain 164 Total 313
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 164 Total 314
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 152 Packages Remain 163 Total 315
+[2019.11.09-17.15.18:578][267]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 152 Packages Remain 25 Total 177
+[2019.11.09-17.15.18:914][268]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 168 Packages Remain 24 Total 192
+[2019.11.09-17.15.18:914][268]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 169 Packages Remain 23 Total 192
+[2019.11.09-17.15.18:914][268]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 173 Packages Remain 22 Total 195
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 182 Packages Remain 40 Total 222
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 202 Packages Remain 18 Total 220
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cooked packages 202 Packages Remain 0 Total 202
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Finishing up...
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 200, size is 136.01kb
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Cook by the book total time in tick 1.456509s total time 2.434922
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Peak Used virtual 531MB Peak Used physical 504MB
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     StartCookByTheBookTime: 0.898s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 0.129s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       CleanSandboxTime: 0.077s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.005s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       CollectFilesToCook: 0.099s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     TickCookOnTheSide: 1.454s (32)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       LoadPackage: 0.241s (31)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.047s (32)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (32)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       SavingPackages: 1.165s (14)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.006s (195)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.280s (188)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         SaveCookedPackage: 0.867s (202)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:           LoadPackage: 0.000s (202)
+[2019.11.09-17.15.19:249][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:           GEditorSavePackage: 0.857s (202)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:             ConvertingBlueprints: 0.004s (202)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (200)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.005s (202)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (4)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.005s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.032s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:     SavingAssetRegistry: 0.032s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       BuildChunkManifest: 0.006s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.021s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.001s (1)
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCook: Display: Done!
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogSavePackage: Display: Took 0.003238s to verify the EDL loading graph.
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ===============
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000040
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.Load
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=154
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=0.621576
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.Save
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=202
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.835926
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.072575
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.033652
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.000616
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001359
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000125
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.055248
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.067406
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.041538
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.122061
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     MBWritten=70.368341
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2019.11.09-17.15.19:250][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Cook Profile
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ============
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=6.384733
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=3.940718
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.444000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=0.897711
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000014
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=1.539212
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.240990
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.866960
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.332988
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.005205
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000013
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000008
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000011
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000001
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: =================
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalGetHits  =       494
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalGets     =       494
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.151822
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.848178
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalPuts     =         0
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display:
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.12                   0.12             0          5.13
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.04                   0.00             0         13.59
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.02                   0.02             0          1.07
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.02                   0.02             0         37.87
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          3.42
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.01                   0.01             0          0.51
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.02
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.03
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display:
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: -----------------------------------
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display:
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display: Success - 0 error(s), 3 warning(s)
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   LogInit: Display:
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   
+[2019.11.09-17.15.19:251][269]UATHelper: Packaging (Windows (32-bit)):   Execution of commandlet took:  2.46 seconds
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Took 6.894305s to run UE4Editor-Cmd.exe, ExitCode=0
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): ********** COOK COMMAND COMPLETED **********
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): ********** STAGE COMMAND STARTED **********
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Creating Staging Manifest...
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\ConsoleVariables.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.11.09-17.15.19:919][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file D:\GIT\Tank-League\TankLeague 4.23\Config\DefaultEditor.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Excluding config file D:\GIT\Tank-League\TankLeague 4.23\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.11.09-17.15.19:920][271]UATHelper: Packaging (Windows (32-bit)): Cleaning Stage Directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.15.20:921][274]UATHelper: Packaging (Windows (32-bit)): Creating pak using staging manifest.
+[2019.11.09-17.15.20:921][274]UATHelper: Packaging (Windows (32-bit)): Executing 1 UnrealPak command...
+[2019.11.09-17.15.22:256][278]UATHelper: Packaging (Windows (32-bit)): Waiting for child processes to complete (1/1)
+[2019.11.09-17.15.22:256][278]UATHelper: Packaging (Windows (32-bit)): Output from: "D:\GIT\Tank-League\TankLeague 4.23\TankLeague.uproject" "D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor\TankLeague\Content\Paks\TankLeague-WindowsNoEditor.pak" -create="C:\Users\Sammy\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\PakList_TankLeague-WindowsNoEditor.txt" -cryptokeys="D:\GIT\Tank-League\TankLeague 4.23\Saved\Cooked\WindowsNoEditor\TankLeague\Metadata\Crypto.json" -order="D:\GIT\Tank-League\TankLeague 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\Sammy\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\UnrealPak-TankLeague-WindowsNoEditor-2019.11.09-18.15.20.txt"
+[2019.11.09-17.15.22:256][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Loading response file C:\Users\Sammy\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\PakList_TankLeague-WindowsNoEditor.txt
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Added 1280 entries to add to pak file.
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Loading pak order file D:\GIT\Tank-League\TankLeague 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Finished loading pak order file D:\GIT\Tank-League\TankLeague 4.23\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Collected 1280 files in 0.01s.
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Creating pak D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor\TankLeague\Content\Paks\TankLeague-WindowsNoEditor.pak.
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Added 1280 files, 88389389 bytes total, time 0.47s.
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)):   LogPakFile: Display: Unreal pak executed in 0.509689 seconds
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): UnrealPak terminated with exit code 0
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): Copying NonUFSFiles to staging directory: D:\GIT\Tank-League\TankLeague 4.23\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): ********** STAGE COMMAND COMPLETED **********
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): ********** PACKAGE COMMAND STARTED **********
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2019.11.09-17.15.22:257][278]UATHelper: Packaging (Windows (32-bit)): Archiving to D:/GIT/Tank-League/Build
+[2019.11.09-17.15.22:586][278]UATHelper: Packaging (Windows (32-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2019.11.09-17.15.22:586][278]UATHelper: Packaging (Windows (32-bit)): BUILD SUCCESSFUL
+[2019.11.09-17.15.22:586][278]UATHelper: Packaging (Windows (32-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2019.11.09-17.16.32:829][634]BlueprintLog: New page: Compile tankgamemode
+[2019.11.09-17.16.33:156][634]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2019.11.09-17.16.33:551][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/tankgamemode" FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset" SILENT=true
+[2019.11.09-17.16.33:581][653]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague 4.23/Saved/tankgamemode3FE5E7F04624C107FE4A4EA36FD1F3A3.tmp' to 'D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset'
+[2019.11.09-17.16.36:197][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.09-17.16.36:247][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.16.36:247][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-17.16.36:247][809]PIE: New page: PIE session: TankLeagueMap (Nov 9, 2019, 7:16:36 PM)
+[2019.11.09-17.16.36:247][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TankLeagueMap
+[2019.11.09-17.16.36:261][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014190s)
+[2019.11.09-17.16.36:262][809]LogAIModule: Creating AISystem for world TankLeagueMap
+[2019.11.09-17.16.36:262][809]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2019.11.09-17.16.36:262][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TankLeagueMap.TankLeagueMap to /Game/UEDPIE_0_TankLeagueMap.TankLeagueMap (0.015468s)
+[2019.11.09-17.16.36:317][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.11.09-17.16.36:340][809]LogInit: XAudio2 using 'Speakers (Samson Meteor Mic)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.09-17.16.36:352][809]LogInit: FAudioDevice initialized.
+[2019.11.09-17.16.36:358][809]LogLoad: Game class is 'tankgamemode_C'
+[2019.11.09-17.16.36:359][809]LogWorld: Bringing World /Game/UEDPIE_0_TankLeagueMap.TankLeagueMap up for play (max tick rate 60) at 2019.11.09-18.16.36
+[2019.11.09-17.16.36:360][809]LogWorld: Bringing up level for play took: 0.001236
+[2019.11.09-17.16.36:360][809]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2019.11.09-17.16.36:370][809]LogScript: Warning: Accessed None trying to read property tank pawn
+	tankgamemode_C /Game/UEDPIE_0_TankLeagueMap.TankLeagueMap:PersistentLevel.tankgamemode_C_0
+	Function /Game/Blueprints/tankgamemode.tankgamemode_C:ExecuteUbergraph_tankgamemode:00CE
+[2019.11.09-17.16.36:370][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property tank pawn". Blueprint:  tankgamemode Function:  Execute Ubergraph Tankgamemode Graph:  EventGraph Node:  Disable Input
+[2019.11.09-17.16.36:371][809]PIE: Play in editor start time for /Game/UEDPIE_0_TankLeagueMap 0.024
+[2019.11.09-17.16.36:372][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.16.39:850][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.16.39:851][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-17.16.39:851][ 16]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TankLeagueMap
+[2019.11.09-17.16.39:851][ 16]LogWorld: UWorld::CleanupWorld for TankLeagueMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-17.16.39:864][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.09-17.16.39:865][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.16.39:920][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-17.16.39:926][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.11.09-17.16.39:938][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-17.16.39:969][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.11.09-17.17.14:751][ 95]BlueprintLog: New page: Compile tankgamemode
+[2019.11.09-17.17.15:067][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.11.09-17.17.15:393][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/tankgamemode" FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset" SILENT=true
+[2019.11.09-17.17.15:421][110]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague 4.23/Saved/tankgamemode0C595D964E682807698395A78E2B0B0E.tmp' to 'D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset'
+[2019.11.09-17.17.21:270][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-17.17.21:367][465]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-17.17.24:015][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-17.17.24:113][627]LogSlate: Window 'Message Log' being destroyed
+[2019.11.09-17.17.24:117][627]LogSlate: Window 'Message Log' being destroyed
+[2019.11.09-17.17.24:655][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-17.17.25:890][733]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-17.17.25:893][733]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap
+[2019.11.09-17.18.41:627][202]LogEditorTransaction: Undo Create Pin Link
+[2019.11.09-17.18.43:253][297]LogEditorTransaction: Undo Paste clipboard contents
+[2019.11.09-17.18.51:490][775]BlueprintLog: New page: Compile tankgamemode
+[2019.11.09-17.18.51:854][775]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2019.11.09-17.18.52:034][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/tankgamemode" FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset" SILENT=true
+[2019.11.09-17.18.52:062][782]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague 4.23/Saved/tankgamemode055E37A94501DEB0000F879DE7F8CBE8.tmp' to 'D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset'
+[2019.11.09-17.18.52:497][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-17.19.03:008][437]BlueprintLog: New page: Compile tankgamemode
+[2019.11.09-17.19.03:356][437]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2019.11.09-17.19.03:573][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/tankgamemode" FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset" SILENT=true
+[2019.11.09-17.19.03:597][446]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague 4.23/Saved/tankgamemode66F7020C48B191CB1CF2FC9D044CD497.tmp' to 'D:/GIT/Tank-League/TankLeague 4.23/Content/Blueprints/tankgamemode.uasset'
+[2019.11.09-17.19.04:813][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-17.19.05:962][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-17.19.06:096][595]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.09-17.19.06:138][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.19.06:138][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-17.19.06:138][595]PIE: New page: PIE session: TankLeagueMap (Nov 9, 2019, 7:19:06 PM)
+[2019.11.09-17.19.06:138][595]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TankLeagueMap
+[2019.11.09-17.19.06:152][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013863s)
+[2019.11.09-17.19.06:153][595]LogAIModule: Creating AISystem for world TankLeagueMap
+[2019.11.09-17.19.06:153][595]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2019.11.09-17.19.06:153][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TankLeagueMap.TankLeagueMap to /Game/UEDPIE_0_TankLeagueMap.TankLeagueMap (0.015167s)
+[2019.11.09-17.19.06:208][595]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.11.09-17.19.06:229][595]LogInit: XAudio2 using 'Speakers (Samson Meteor Mic)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.09-17.19.06:241][595]LogInit: FAudioDevice initialized.
+[2019.11.09-17.19.06:248][595]LogLoad: Game class is 'tankgamemode_C'
+[2019.11.09-17.19.06:250][595]LogWorld: Bringing World /Game/UEDPIE_0_TankLeagueMap.TankLeagueMap up for play (max tick rate 60) at 2019.11.09-18.19.06
+[2019.11.09-17.19.06:250][595]LogWorld: Bringing up level for play took: 0.001271
+[2019.11.09-17.19.06:250][595]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2019.11.09-17.19.06:253][595]PIE: Play in editor start time for /Game/UEDPIE_0_TankLeagueMap -0.094
+[2019.11.09-17.19.06:254][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.19.35:598][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.19.35:598][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-17.19.35:598][354]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TankLeagueMap
+[2019.11.09-17.19.35:599][354]LogWorld: UWorld::CleanupWorld for TankLeagueMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-17.19.35:611][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.09-17.19.35:611][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel' has LevelScriptBlueprint '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap' with GeneratedClass '/Game/TankLeagueMap.TankLeagueMap_C' with ClassGeneratedBy '/Game/TankLeagueMap.TankLeagueMap:PersistentLevel.TankLeagueMap'
+[2019.11.09-17.19.35:664][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-17.19.35:669][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.11.09-17.19.35:732][356]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2019.11.09-17.19.39:332][571]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-17.19.40:289][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.09-17.19.40:295][626]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-17.19.40:301][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TankLeagueMap" FILE="D:/GIT/Tank-League/TankLeague 4.23/Content/TankLeagueMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.09-17.19.40:348][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.11.09-17.19.40:648][626]LogSavePackage: Moving 'D:/GIT/Tank-League/TankLeague 4.23/Saved/TankLeagueMap8940D1B44AF2586E97DB1581C2D29D37.tmp' to 'D:/GIT/Tank-League/TankLeague 4.23/Content/TankLeagueMap.umap'
+[2019.11.09-17.19.40:672][626]LogFileHelpers: Saving map 'TankLeagueMap' took 0.371
