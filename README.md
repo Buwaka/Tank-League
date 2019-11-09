@@ -1,7 +1,7 @@
 Rocket League inspired Game, but with tanks.
 
 The objective is to use your tank to push the ball to your opponents goal.
-Shoot and jump to ceize your victory.
+Shoot, jump and ram anything into the bumper wall to ceize your victory.
 
 
 Player 1: WASD for movement, left-ctrl for shoot and space for jump.\
